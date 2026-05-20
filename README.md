@@ -61,11 +61,11 @@ $ cat about.txt
 
 <div align="center">
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abstractalex-lab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
+<!-- ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abstractalex-lab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abstractalex-lab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abstractalex-lab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstractalex-lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abstractalex-lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
 
 </div>
 
@@ -75,7 +75,7 @@ $ cat about.txt
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anh_Duc_(Alex)_Bui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-anh-bu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anh_Duc_(Alex)_Bui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-đức-bùi-43ba82368/)
 [![GitHub](https://img.shields.io/badge/GitHub-abstractalex--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abstractalex-lab)
 
 </div>
