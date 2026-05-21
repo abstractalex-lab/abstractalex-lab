@@ -65,7 +65,7 @@ $ cat about.txt
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/-Anh_Duc_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anh-đức-bùi-43ba82368/)
+[![LinkedIn](https://img.shields.io/badge/-Anh_Duc_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anh-đức-bùi-43ba82368)
 [![Gmail](https://img.shields.io/badge/-anhduc.bui211206@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:anhduc.bui211206@gmail.com)
 
 
