@@ -14,7 +14,7 @@
 ```
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=IT+%26+Cybersecurity+Student+%40+Monash;Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Security+Researcher+in+Training;Building+things+that+matter+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=IT+%26+Cybersecurity+Student+%40+Monash+University;Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Security+Researcher+in+Training;Firebase+%7C+Android+Security+%7C+AI+Integration;Building+things+that+matter+🔐)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,7 +45,7 @@ $ cat about.txt
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,git&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Data & Architecture
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,gradle,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,gradle,firebase,docker&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Tools & Others
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,discord,github&theme=dark)](https://skillicons.dev)
@@ -56,7 +56,7 @@ $ cat about.txt
 
 | Project | Description | Stack |
 |---|---|---|
-| 🥗 [NutriTrack](https://github.com/abstractalex-lab/nutri-track-app) | Android nutrition insights app with AI coaching & clinician dashboard | Kotlin · Jetpack Compose · Room · Gemini API |
+| 🥗 [NutriTrack](https://github.com/abstractalex-lab/nutri-track-app) | Android nutrition insights app with AI coaching & clinician dashboard | Kotlin · Jetpack Compose · Room · Firebase AI |
 
 ---
 
