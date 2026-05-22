@@ -56,7 +56,7 @@ $ cat about.txt
 
 | Project | Description | Stack |
 |---|---|---|
-| 🥗 [NutriTrack](https://github.com/abstractalex-lab/nutri-track-app) | Android nutrition insights app with AI coaching & clinician dashboard | Kotlin · Jetpack Compose · Room · Firebase AI |
+| [NutriTrack](https://github.com/abstractalex-lab/nutri-track-app) 🥗 | Android nutrition insights app with AI coaching & clinician dashboard | Kotlin · Jetpack Compose · Room · Firebase AI |
 
 ---
 
