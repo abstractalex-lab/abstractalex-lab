@@ -14,7 +14,7 @@
 ```
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=IT+%26+Cybersecurity+Student+%40+Monash+University;Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Security+Researcher+in+Training;Firebase+%7C+Android+Security+%7C+AI+Integration;Building+things+that+matter+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=IT+%26+Cybersecurity+Student+%40+Monash+University;Aspiring+Cybersecurity+Analyst+%26+Software+Developer;Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Firebase+%7C+Android+Security+%7C+AI+Integration;Building+things+that+matter+🔐)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,7 @@ $ cat about.txt
   Location : Melbourne, Australia 🇦🇺
   Degree   : B.IT (Cybersecurity) @ Monash University, 2024–2027
   Role     : Resident Advisor @ Monash University Accommodation
-  Focus    : Network Security · Software Security · Android Dev
+  Focus    : Network & Software Security · Android Dev · Firebase · AI Integration
   Status   : Open to internships & part-time opportunities
 ```
 
