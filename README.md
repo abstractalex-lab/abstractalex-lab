@@ -29,7 +29,6 @@ $ cat about.txt
   Name     : Alex Bui (Anh Duc Bui)
   Location : Melbourne, Australia 🇦🇺
   Degree   : B.IT (Cybersecurity) @ Monash University, 2024–2027
-  Role     : Resident Advisor @ Monash University Accommodation
   Focus    : Network & Software Security · Android Dev · Firebase · AI Integration
   Status   : Open to internships & part-time opportunities
 ```
@@ -39,7 +38,7 @@ $ cat about.txt
 ## `> skills --list`
 
 ### 🛡️ Cybersecurity, Networking & System 
-[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,kali&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,kali,cloudflare&theme=dark)](https://skillicons.dev)
 
 ### 📱 Mobile & Software Development
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,git&theme=dark)](https://skillicons.dev)
@@ -90,6 +89,8 @@ $ cat about.txt
 [![GitHub Streak](https://streak-stats.demolab.com?user=abstractalex-lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abstractalex-lab&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/abstractalex-lab)
+
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=abstractalex-lab&theme=matrix&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 </div>
