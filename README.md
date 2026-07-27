@@ -26,10 +26,10 @@
 ```bash
 $ cat about.txt
 
-  Name     : Alex Bui (Anh Duc Bui)
+  Name     : Alex Bui (Duc Anh Bui)
   Location : Melbourne, Australia 🇦🇺
   Degree   : B.IT (Cybersecurity) @ Monash University, 2024–2027
-  Focus    : Network & Software Security · Android Dev · Firebase · AI Integration
+  Focus    : Network & Software Security · Android Dev · AI Integration
   Status   : Open to internships & part-time opportunities
 ```
 
@@ -41,7 +41,7 @@ $ cat about.txt
 [![My Skills](https://skillicons.dev/icons?i=linux,c,bash,kali,cloudflare&theme=dark)](https://skillicons.dev)
 
 ### 📱 Mobile & Software Development
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,php,git&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Data & Architecture
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,gradle,firebase,docker&theme=dark)](https://skillicons.dev)
@@ -64,7 +64,7 @@ $ cat about.txt
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/-Anh_Duc_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/duc-anh-bui-dev)
+[![LinkedIn](https://img.shields.io/badge/-Duc_Anh_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/duc-anh-bui-dev)
 [![Gmail](https://img.shields.io/badge/-anhduc.bui211206@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:anhduc.bui211206@gmail.com)
 
 
