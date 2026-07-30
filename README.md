@@ -29,7 +29,7 @@ $ cat about.txt
   Name     : Alex Bui (Duc Anh Bui)
   Location : Melbourne, Australia 🇦🇺
   Degree   : B.IT (Cybersecurity) @ Monash University, 2024–2027
-  Focus    : Network & Software Security · Android Dev · AI Integration
+  Focus    : Network & Software Security · Android Dev · Software Development
   Status   : Open to internships & part-time opportunities
 ```
 
