@@ -36,27 +36,32 @@ $ cat about.txt
 ---
 
 ## `> skills --list`
-
-### 🛡️ Cybersecurity, Networking & System 
-[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,kali,cloudflare&theme=dark)](https://skillicons.dev)
-
-### 📱 Mobile & Software Development
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,php,git&theme=dark)](https://skillicons.dev)
-
+ 
+### 🛡️ Cybersecurity, Networking & Systems
+[![My Skills](https://skillicons.dev/icons?i=linux,python,c,bash,kali,cloudflare&theme=dark)](https://skillicons.dev)
+ 
+### 📱 Mobile & App Development
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,java&theme=dark)](https://skillicons.dev)
+ 
+### 🌐 Web & Backend Development
+[![My Skills](https://skillicons.dev/icons?i=php,bootstrap,git&theme=dark)](https://skillicons.dev)
+ 
 ### 🗄️ Data & Architecture
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,gradle,firebase,docker&theme=dark)](https://skillicons.dev)
-
+ 
 ### 🔧 Tools & Others
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,discord,github&theme=dark)](https://skillicons.dev)
 
 ---
-
+ 
 ## `> ls projects/`
-
+ 
 | Project | Description | Stack |
 |---|---|---|
 | [NutriTrack](https://github.com/abstractalex-lab/nutri-track-app) | Android nutrition insights app with AI coaching & clinician dashboard | Kotlin · Jetpack Compose · Room · Firebase AI |
-
+| [Winterbound](https://github.com/abstractalex-lab/winterbound) | Turn-based winter survival roguelike in Java, built on a read-only game engine | Java 17 · Maven · JUnit 5 · Google Gen AI (Gemini) |
+| [SafePaws Rescue](https://github.com/abstractalex-lab/safepaws-rescue) | Web database system for an animal rescue, with records, fosters, adoptions & staff portal | PHP 8 · PDO · MySQL/MariaDB · Bootstrap 5 |
+ 
 ---
 
 ## `> connect --social`
@@ -88,7 +93,7 @@ $ cat about.txt
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abstractalex-lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abstractalex-lab&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/abstractalex-lab)
+<!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abstractalex-lab&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/abstractalex-lab) -->
 
 <!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=abstractalex-lab&theme=matrix&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
