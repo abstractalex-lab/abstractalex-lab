@@ -14,7 +14,7 @@
 ```
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=IT+%26+Cybersecurity+Student+%40+Monash+University;Aspiring+Cybersecurity+Analyst+%26+Software+Developer;Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Firebase+%7C+Android+Security+%7C+AI+Integration;Building+things+that+matter+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=IT+%26+Cybersecurity+Student+%40+Monash+University;Aspiring+Cybersecurity+Analyst+%26+Software+Developer;Kotlin+%7C+Java+%7C+PHP+%7C+Full-Stack+Development;Network+Security+%7C+Secure+Coding+%7C+API+Integration;Building+things+that+matter+🔐)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +29,7 @@ $ cat about.txt
   Name     : Alex Bui (Duc Anh Bui)
   Location : Melbourne, Australia 🇦🇺
   Degree   : B.IT (Cybersecurity) @ Monash University, 2024–2027
-  Focus    : Network & Software Security · Android Dev · Software Development
+  Focus    : Network & Software Security (incl. OpSec) · Digital Forensics · Software & Full-Stack Development
   Status   : Open to internships & part-time opportunities
 ```
 
@@ -69,7 +69,7 @@ $ cat about.txt
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/-Duc_Anh_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/duc-anh-bui-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duc_Anh_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/duc-anh-bui-dev)
 [![Gmail](https://img.shields.io/badge/-anhduc.bui211206@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:anhduc.bui211206@gmail.com)
 
 
@@ -86,17 +86,17 @@ $ cat about.txt
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abstractalex-lab&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
+![Open to Work](https://img.shields.io/badge/status-open_to_internships-00ff41?style=for-the-badge&labelColor=0d1117)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abstractalex-lab&label=repos&query=%24.public_repos&color=00ff41&style=for-the-badge&labelColor=0d1117&logo=github)
+<!-- ![Followers](https://img.shields.io/github/followers/abstractalex-lab?style=for-the-badge&color=00ff41&labelColor=161b22&logo=github) -->
 
-![Alex's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=abstractalex-lab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abstractalex-lab&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true)
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abstractalex-lab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true" width="45%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abstractalex-lab&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true" width="45%" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abstractalex-lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
-
-<!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abstractalex-lab&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/abstractalex-lab) -->
-
-<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=abstractalex-lab&theme=matrix&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 
 </div>
 
