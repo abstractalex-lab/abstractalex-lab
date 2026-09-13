@@ -41,10 +41,10 @@ $ cat about.txt
 [![My Skills](https://skillicons.dev/icons?i=linux,python,c,bash,kali,cloudflare&theme=dark)](https://skillicons.dev)
  
 ### 📱 Mobile & App Development
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,swift&theme=dark)](https://skillicons.dev)
  
 ### 🌐 Web & Backend Development
-[![My Skills](https://skillicons.dev/icons?i=php,bootstrap,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,git&theme=dark)](https://skillicons.dev)
  
 ### 🗄️ Data & Architecture
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,gradle,firebase,docker&theme=dark)](https://skillicons.dev)
