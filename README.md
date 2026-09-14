@@ -30,7 +30,7 @@ $ cat about.txt
   Location : Melbourne, Australia 🇦🇺
   Degree   : B.IT (Cybersecurity) @ Monash University, 2024–2027
   Focus    : Network & Software Security (incl. OpSec) · Digital Forensics · Software & Full-Stack Development
-  Status   : Open to internships & part-time opportunities
+  Status   : Open to internships, part-time and full-time opportunities
 ```
 
 ---
@@ -85,7 +85,7 @@ $ cat about.txt
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abstractalex-lab&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=abstractalex-lab&style=for-the-badge&color=00ff41&labelColor=0d1117&label=PROFILE+VIEWS)
 ![Open to Work](https://img.shields.io/badge/status-open_to_internships-00ff41?style=for-the-badge&labelColor=0d1117)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abstractalex-lab&label=repos&query=%24.public_repos&color=00ff41&style=for-the-badge&labelColor=0d1117&logo=github)
 <!-- ![Followers](https://img.shields.io/github/followers/abstractalex-lab?style=for-the-badge&color=00ff41&labelColor=161b22&logo=github) -->
