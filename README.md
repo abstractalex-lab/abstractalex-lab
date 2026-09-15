@@ -96,7 +96,7 @@ $ cat about.txt
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abstractalex-lab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true" width="45%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abstractalex-lab&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true" width="45%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abstractalex-lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abstractalex-lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&cache_bust=1)](https://git.io/streak-stats)
 
 </div>
 
