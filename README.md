@@ -69,11 +69,11 @@ $ cat about.txt
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duc_Anh_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/duc-anh-bui-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duc_Anh_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abstractalex-lab/)
 [![Gmail](https://img.shields.io/badge/-anhduc.bui211206@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:anhduc.bui211206@gmail.com)
 
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anh_Duc_(Alex)_Bui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-đức-bùi-43ba82368/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anh_Duc_(Alex)_Bui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abstractalex-lab/)
 [![GitHub](https://img.shields.io/badge/GitHub-abstractalex--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abstractalex-lab) -->
 
 </div>
