@@ -69,7 +69,7 @@ $ cat about.txt
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duc_Anh_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abstractalex-lab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anh_Duc_(Alex)_Bui-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abstractalex-lab/)
 [![Gmail](https://img.shields.io/badge/-anhduc.bui211206@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:anhduc.bui211206@gmail.com)
 
 
